@@ -1,0 +1,7 @@
+{
+	int position;
+	int initial;
+	int rate;
+
+	position = initial * rate + 60;
+}
